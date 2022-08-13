@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    margin-left: 35%;
+    margin-top: 10%;
+    font-size: 50px;
+    color: rgb(0, 255, 21);
+}
+
+#container {
+    margin-left: 28%;
+    margin-top: 50px;
+    font-size: 100px;
+    color: rgb(123, 255, 0);
+}
